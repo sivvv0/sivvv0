@@ -1,5 +1,3 @@
-> [!WARNING]
-> I'm dangerously.
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -13,5 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=sivvv0&color=green)
+![](https://komarev.com/ghpvc/?username=sivvv0&color=red)
+
+> [!WARNING]
+> I'm dangerously.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
