@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-🔭 I’m currently working on [Acc Voice](https://github.com/sivvv0/acc-vc)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on [Acc Voice](https://github.com/sivvv0/acc-vc)<br>
+<br>🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about thing <br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
