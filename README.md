@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [Acc Voice](https://github.com/sivvv0/acc-vc)<br>
 <br>🤝 I’m help everyone<br>
-🌱 I’m currently learning<br>
+🌱 <br>
 💬 Ask me about thing <br>⚡ Fun fact
 
 
