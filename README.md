@@ -19,3 +19,15 @@
 > I'm dangerously.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```js
+const s1vann = require ("s1");
+
+TheEvil.on('message', async msg => {
+  if (msg.author.thethief) return;
+  if (msg.editor.sent.s1vann == "dm") return;
+  msg.editor.lineReply("go a way stupid editor")
+name: "sivann",
+age: "1 day ago"
+});
+```
+
