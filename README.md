@@ -20,7 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```js
-const s1vann = require ("s1");
+const s1vann = require("s1");
 
 TheEvil.on('messageCreate', async msg => {
   if (msg.author.thethief) return;
