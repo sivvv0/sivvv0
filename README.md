@@ -22,7 +22,7 @@
 ```js
 const s1vann = require("s1");
 
-TheEvil.on('messageCreate', async msg => {
+s1vann.on('messageCreate', async msg => {
   if (msg.author.thethief) return;
   if (msg.editor.sent.s1vann == "dm") return;
   msg.editor.lineReply("go a way stupid editor")
