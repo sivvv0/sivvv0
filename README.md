@@ -17,6 +17,8 @@
 
 > [!WARNING]
 > I'm dangerously.
+>
+> ![](https://ssr-contributions-svg.vercel.app/_/sivvv0?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=html&weeks=40&theme=dark_green&widget_size=medium&dark=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```js
