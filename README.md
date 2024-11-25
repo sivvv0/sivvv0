@@ -1,8 +1,9 @@
 
-# 💫 About Me:
-- [ ] making packeage
-- [x] Acc Voice
-- [x] auto reaction
+<div align="center">
+  <h1 align="center">🏆 Trophies</h1> 
+  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+</div>
+ 
 
 
 # 💻 Tech Stack:
