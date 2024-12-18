@@ -1,4 +1,12 @@
-
+```js
+Coffee coffee = new Coffee();
+if (!coffee.Empty) {
+coffee.Drink();
+} else {
+coddee.Refill();
+}
+// i am a developer
+```
 <div align="center">
   <h1 align="center">🏆 Trophies</h1> 
   <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
