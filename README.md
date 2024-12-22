@@ -1,11 +1,11 @@
 ```js
-Coffee coffee = new Coffee();
-if (!coffee.Empty) {
-coffee.Drink();
-} else {
-coddee.Refill();
+#include < inspiration.h>
+
+art me(her){
+if(sheSmiles == true) {
+return poetry;
+    }
 }
-// i am a developer
 ```
 <div align="center">
   <h1 align="center">🏆 Trophies</h1> 
