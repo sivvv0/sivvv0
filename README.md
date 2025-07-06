@@ -1,6 +1,4 @@
 ```js
-#include < inspiration.h>
-
 art me(her){
 if(sheSmiles == true) {
 return poetry;
